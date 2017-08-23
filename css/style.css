@@ -1,0 +1,200 @@
+.navbar .container-fluid {
+    background: #e3e3e3;
+}
+ .navbar .container-fluid .navbar-header #logo {
+    font-size: 0.28rem;
+    color: #6ed3b3;
+}
+ .navbar .container-fluid .navbar-header button{
+     background: #444444;
+     border: 1px solid #333333 ;
+}
+.navbar .container-fluid .navbar-header button span{
+    border: 1px solid #333;
+}
+ .navbar .container-fluid #navbar ul li a {
+    font-size: 0.16rem;
+    font-weight: bold;
+    color: #666;
+}
+
+ .navbar .container-fluid #navbar ul li a.app {
+    color: #333;
+}
+
+.big-img {
+    margin-top: -0.2rem;
+    text-align: center;
+}
+
+.big-img .jumbotron {
+    position: relative;
+    z-index: 1;
+    width: auto;
+    height: 6rem;
+    -webkit-filter: brightness(0.3);
+    background: url("../image/home-bg.jpg") no-repeat;
+}
+
+.big-img .font {
+    position: relative;
+    z-index: 2;
+    margin-top: -6.1rem;
+}
+
+.big-img .font p {
+    -webkit-filter: none;
+    font-size: 0.14rem;
+    color: #fff;
+}
+
+.big-img .font p.title {
+    line-height: 0.68rem;
+    font-size: 0.34rem;
+}
+
+.big-img .font img {
+    margin: auto;
+}
+
+.three-icon {
+    margin-top: 1.3rem;
+    margin-bottom: 0.8rem;
+    text-align: center;
+}
+
+.three-icon figure p {
+    font-size: 0.22rem;
+}
+
+.three-icon figure p span {
+    display: block;
+    font-size: 0.14rem;
+}
+
+.h5 {
+    margin: 0;
+    background: #d3d3d3;
+}
+
+.h5 div {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.h5 div a {
+    line-height: 0.58rem;
+    font-size: 0.28rem;
+    color: #333;
+}
+
+.h5 div a span {
+    font-weight: bold;
+}
+
+.h5 div p {
+    font-size: 0.14rem;
+    color: #333;
+}
+
+.vue div {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.vue div a {
+    line-height: 0.58rem;
+    font-size: 0.28rem;
+    color: #333;
+}
+
+.vue div a span {
+    font-weight: bold;
+}
+
+.vue div p {
+    font-size: 0.14rem;
+    color: #333;
+}
+
+.node {
+    margin: 0;
+    padding-bottom: 0.5rem;
+    background: #d3d3d3;
+    text-align: center;
+}
+
+.node p {
+    line-height: 1.28rem;
+    font-size: 0.28rem;
+    font-weight: bold;
+}
+
+.node .container div div.fig {
+    margin-bottom: 0.2rem;
+    background: #fff;
+}
+
+.node .container div div.fig .btn {
+    margin: 0.2rem auto;
+    width: 1.38rem;
+    height: 0.38rem;
+    font-size: 0.14rem;
+    color: #40d2b1;
+    background: #fff;
+    border: 1px solid #40d2b1;
+}
+
+.app img {
+    width: 5.4rem;
+}
+
+.app div {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.app div a.a1 {
+    line-height: 0.88rem;
+    font-size: 0.28rem;
+    color: #333;
+}
+
+.app div p {
+    font-size: 0.13rem;
+}
+
+.address {
+    padding: 0;
+    width: auto;
+    background: url("../image/contact-bg.png");
+}
+
+.address .bg {
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+}
+
+.address .bg div p {
+    font-size: 0.14rem;
+    color: #fff;
+}
+
+.address .bg div p.title {
+    font-size: 0.3rem;
+    line-height: 0.8rem;
+}
+
+.address .bg div form {
+    opacity: 1.0;
+}
+
+footer {
+    line-height: 0.7rem;
+    text-align: center;
+    background: #000;
+    color: #fff;
+}
