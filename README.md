@@ -1,2 +1,2 @@
 # school
-##add WOW and animate.css 
+add WOW and animate.css 
